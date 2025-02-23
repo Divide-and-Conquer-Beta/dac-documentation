@@ -5,6 +5,7 @@
 23rd February 2025
 - (Karl) Fixed Beacon of Hope mercenary pools not replenishing
 - (Karl) Corrected number of defenders from garrison building in Alcfud if held by a wildmen faction
+- (Karl) Sauron now spawns after 5 ring rotations instead of after 8 (around turn 130)
 
 19th February 2025
 - (Reeveli) New greater resolution banners for ND standard bearer, three variants
