@@ -7,5 +7,5 @@ The following is the repository for the official Divide and Conquer documentatio
 
 ## Topics
 
-* [V6 Changelog](./V6-Changelog)
-* [Installation](./Installation)
+* [V6 Changelog](./V6-Changelog.md)
+* [Installation](./Installation.md)
