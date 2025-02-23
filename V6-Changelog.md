@@ -595,9 +595,20 @@
     - All unique events should now reside in southern_european folder to keep things consolidated. I expect this to be an ongoing process
     - Removed 126 duplicate images from various cultural folders
     - Moved 276 currently un-referenced (not in historic_events or Lua scripts) events away from working space to a new archival folder in  - data\ui\archive_eventpics
-    - Added reverse-engineered EL and Blue Wizards event image frames that I've used to southern_european folder where other templates also reside (search for TEMPLATE
+    - Added reverse-engineered EL and Blue Wizards event image frames that I've used to southern_european folder where other templates also reside (search for TEMPLATE)
 - (Reeveli) New images to replace old live action ones for the following event chains: Aragorn, Gandalf & Army of the Dead
 - (Reeveli) Added some more images for Ered Luin Ring script as there were many shared previously
 
+16th February 2025
+- (Reeveli) New images to replace old live action ones for the following event chains: Aragorn, Gandalf & Army of the Dead
+- (Reeveli) Added some more images for Ered Luin Ring script as there were many shared previously
 
-
+19th February 2025
+- (Reeveli) New greater resolution banners for ND standard bearer, three variants
+- (Reeveli) Also Gondor and DA texture variants for above
+- (Karl) Added Silvan Marchwardens to the Anduin Vale waystation
+- (Karl) Added Hîtherbin to the Lothlorien waystation
+- (Karl) Added Arthírochon to the Woodland Realm waystation
+- (Karl) Added Hin-e-Daur to the Woodland Realm waystation
+- (Karl) Added Mordag Fishermen to the Enedwaith waystation
+- (Karl) Added Snow Trolls to the Angmar waystation
