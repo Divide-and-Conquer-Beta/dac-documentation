@@ -18,7 +18,6 @@
 
 7th February 2025
 - (Karl) Adjusted behaviour of starting Noldor barracks in Imladris for player High Elves to allow immediate recruitment of Amanyar
-- (Reeveli) New portraits for Moria starting generals
 - (Reeveli) Event images cleanup:
     - All unique events should now reside in southern_european folder to keep things consolidated. I expect this to be an ongoing process
     - Removed 126 duplicate images from various cultural folders
