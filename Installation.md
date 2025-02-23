@@ -33,7 +33,7 @@
 
 Make sure your path does not list 'Medieval II Total War' twice!
 
-6) You may need to delete your Virtual Store entry for Medieval 2. There are links to guides showing what to do on Mod DB. 
+6) You may need to delete your Virtual Store entry for Medieval 2. [Here is a link to the moddb page that has two tutorials.](https://www.moddb.com/mods/divide-and-conquer/downloads/divide-and-conquer-v5-a-kingdom-reunited) 
 
 Note: The Divide and Conquer Launcher is now capable of running Large Address Aware on the Medieval2.exe when required, so this is no longer done during installation.
 
