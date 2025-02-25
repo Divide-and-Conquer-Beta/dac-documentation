@@ -2,6 +2,9 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+25rd February 2025
+- Update EOP to latest nightly
+  
 23rd February 2025
 - (Karl) Fixed Beacon of Hope mercenary pools not replenishing
 - (Karl) Corrected number of defenders from garrison building in Alcfud if held by a wildmen faction
