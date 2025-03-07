@@ -2,6 +2,10 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+7th March 2025
+- (Reeveli) Fixed wrong spelling of Galadriel in historic_events
+- (Reeveli) Set accent for Mordor, MM, Gundabad and DG Orc units in EDU to future proof units for other factions
+
 23rd February 2025
 - (Karl) Fixed Beacon of Hope mercenary pools not replenishing
 - (Karl) Corrected number of defenders from garrison building in Alcfud if held by a wildmen faction
@@ -28,7 +32,6 @@
     - Removed 126 duplicate images from various cultural folders
     - Moved 276 currently un-referenced (not in historic_events or Lua scripts) events away from working space to a new archival folder in  - data\ui\archive_eventpics
     - Added reverse-engineered EL and Blue Wizards event image frames that I've used to southern_european folder where other templates also reside (search for TEMPLATE)
-- (Reeveli) Added some more images for Ered Luin Ring script as there were many shared previously
 
 21st January-29th January 2025
 - (Reeveli) New portraits for Moria starting generals
