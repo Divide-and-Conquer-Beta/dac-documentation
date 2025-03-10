@@ -2,6 +2,11 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+10th March 2025
+- (Medik) Mounted Coastel Wardens (Thanks AvalonGhost)
+- (Medik) Give Khamul's Shadowguard "Frighten infantry" insted of "Morale bonus for allied troops" (Thanks AvalonGhost)
+- (Medik) Renamed "Dorwinion Infantry" to "Dorwinion Shieldbearers" and renamed "Dorwinion Swordmasters" to "Dorwinion Swordbearers" (Thanks AvalonGhost)
+
 7th March 2025
 - (Reeveli) Fixed wrong spelling of Galadriel in historic_events
 - (Reeveli) Set accent for Mordor, MM, Gundabad and DG Orc units in EDU to future proof units for other factions
