@@ -3,6 +3,8 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 10th March 2025
+- (Karl) Reworked ND Waystation
+![](https://media.discordapp.net/attachments/1309176386702934157/1348788963816509585/image.png?ex=67d0bd1c&is=67cf6b9c&hm=45a78dd059e07272304622f3d6db60472435f0e4c53e765dbb12f812ff8c3961&=&format=webp&quality=lossless&width=1001&height=548)
 - (Medik) Mounted Coastel Wardens (Thanks AvalonGhost)
 - (Medik) Give Khamul's Shadowguard "Frighten infantry" insted of "Morale bonus for allied troops" (Thanks AvalonGhost)
 - (Medik) Renamed "Dorwinion Infantry" to "Dorwinion Shieldbearers" and renamed "Dorwinion Swordmasters" to "Dorwinion Swordbearers" (Thanks AvalonGhost)
