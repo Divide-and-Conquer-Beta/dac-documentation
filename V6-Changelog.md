@@ -4,6 +4,7 @@
 
 20th March 2025
 - (Medik) Adjusted Northman Scouts stats
+- (Medik) Moved Barding Cavalry to T3 Stables
 - (Medik) Gave Barding Abjurers a custom projectile
 - (Medik) Elven and Dwarven capitals now start with a blacksmith
 - (Medik) Dale's "Dwarven Enclaves" now increase Dwarven culture
