@@ -12,6 +12,8 @@
 - (Medik) Arnor/RK can now recruit T1 Rhuduar units without having to destroy Angmar
 - (Medik) Changed the "Captain" hero ability sound effect so Boromir's "Never again" line doesn't play for characters that aren't actually Boromir
 - (Medik) Gave Dale a starting market so the economy isn't so brutal at game start
+- (Medik) Temporarily added the toggle for the behaviour reported by EPM - further testing required
+- (Medik) Temporarily disabled the AI's population growth bonues - further testing required
 
 10th March 2025
 - (Karl) Reworked ND Waystation
