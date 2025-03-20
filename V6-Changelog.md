@@ -15,6 +15,7 @@
 - (Medik) Temporarily added the toggle for the behaviour reported by EPM - further testing required
 - (Medik) Temporarily disabled the AI's population growth bonues - further testing required
 - (Medik) Updated some starting buildings in Rhovanion settlements to give them some flavour and life
+- (Medik) Added rebel Logath units to Logath regions
 
 10th March 2025
 - (Karl) Reworked ND Waystation
