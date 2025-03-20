@@ -11,6 +11,7 @@
 - (Medik) Dale's "Caravansary" now give Far-Rhun Mercs at the higher tiers
 - (Medik) Arnor/RK can now recruit T1 Rhuduar units without having to destroy Angmar
 - (Medik) Changed the "Captain" hero ability sound effect so Boromir's "Never again" line doesn't play for characters that aren't actually Boromir
+- (Medik) Gave Dale a starting market so the economy isn't so brutal at game start
 
 10th March 2025
 - (Karl) Reworked ND Waystation
