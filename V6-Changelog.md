@@ -3,7 +3,6 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 21st March 2025
-- (Medik) Add Dioarchet's fixed projectile angles and velocitys
 - (Lerynian) Removed broken global bonus from Yavannas Garden building
 - (Lerynian) Made possible for ND to build Osgiliath Guildhouse if player had chosen the RK route
 
