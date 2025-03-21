@@ -2,6 +2,11 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+21st March 2025
+- (Medik) Add Dioarchet's fixed projectile angles and velocitys
+- (Lerynian) Removed broken global bonus from Yavannas Garden building
+- (Lerynian) Made possible for ND to build Osgiliath Guildhouse if player had chosen the RK route
+
 20th March 2025
 - (Medik) Adjusted Northman Scouts stats
 - (Medik) Moved Barding Cavalry to T3 Stables
@@ -16,6 +21,7 @@
 - (Medik) Temporarily disabled the AI's population growth bonues - further testing required
 - (Medik) Updated some starting buildings in Rhovanion settlements to give them some flavour and life
 - (Medik) Added rebel Logath units to Logath regions
+
 
 10th March 2025
 - (Karl) Reworked ND Waystation
