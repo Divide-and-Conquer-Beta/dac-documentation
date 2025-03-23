@@ -3,6 +3,8 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 23rd March 2025
 - (Medik) Removed floor of grain resource so it doesn't clash horribly with ground textures
+- (Medik) Removed anti-cav bonus for Baarun Raiders
+- (Medik) Added some new resources in some new locations (Thank you Augimund ⭐ )
 
 21st March 2025
 - (Lerynian) Removed broken global bonus from Yavannas Garden building
