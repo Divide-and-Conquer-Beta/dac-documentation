@@ -1,6 +1,8 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
+23rd March 2025
+- (Medik) Removed floor of grain resource so it doesn't clash horribly with ground textures
 
 21st March 2025
 - (Lerynian) Removed broken global bonus from Yavannas Garden building
