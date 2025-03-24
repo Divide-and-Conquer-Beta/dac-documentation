@@ -1,6 +1,9 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
+24th March 2025
+- (Augimund) Spell checked and fixed various typos and grammar issues in export_units.txt. Fixed duplicate word entries (such as "that that" or "the the") and other minor issues such as words ordered the wrong way ("are they" to "they are"). Fixed reference of Rhovanion hunter description mentioning arrows when they use javelins. Capitalized culture references such as Gondorian and Rohirrim. Multiple instances of "Milita" corrected to "Militia", "Thrown" to Throne", etc. Apostrophe's added to ownership items such as "Dale's" instead of Dales. And many other fixes that are too numerous to list out. 
+
 23rd March 2025
 - (Medik) Removed floor of grain resource so it doesn't clash horribly with ground textures
 - (Medik) Removed anti-cav bonus for Baarun Raiders
