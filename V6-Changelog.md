@@ -10,6 +10,8 @@
 - (Reeveli) Updated Arnor/RK faction logos, startmap banners and battle UI buttons
 - (Reeveli) Added Arnor variant of the final King of the Dead event as that didn't exist previously
 - (Reeveli) Added new (purely cosmetic) trait "House of Telcontar", which replaces Aragorn's and Eldarion's "House of Elendil" when Reunited Kingdom is formed
+- (Reeveli) Added the new ND/RK/Arnor event image templates to `data\ui\southern_european\eventpics`
+- (Reeveli) Renamed all event image templates consistently
 
 24th March 2025
 - (Augimund) Spell checked and fixed various typos and grammar issues in export_units.txt. Fixed duplicate word entries (such as "that that" or "the the") and other minor issues such as words ordered the wrong way ("are they" to "they are"). Fixed reference of Rhovanion hunter description mentioning arrows when they use javelins. Capitalized culture references such as Gondorian and Rohirrim. Multiple instances of "Milita" corrected to "Militia", "Thrown" to Throne", etc. Apostrophe's added to ownership items such as "Dale's" instead of Dales. And many other fixes that are too numerous to list out. 
