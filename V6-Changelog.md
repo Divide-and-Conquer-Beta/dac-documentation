@@ -2,6 +2,9 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+26th March 2025
+- (AvalonGhost) Anduin now get a custom general of Hithaeglir Beast Hunters when securing the mountain passes
+
 25th March 2025
 - (Reeveli) All ND events with the new frames, updated Arnor/RK variants depending which path player chooses
 - (Reeveli) Updated Arnor/RK faction logos, startmap banners and battle UI buttons
