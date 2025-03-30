@@ -2,6 +2,11 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+30th March 2025
+- (Karl) Ship on the upper anduin is now only available for player Anduin Vale
+- (Karl) Annuminas gets automatically re-built when forming Arnor
+- (Karl) Added economy building to WR locked to Mirkwood region (Thank you Leao!)
+
 26th March 2025
 - (AvalonGhost) Anduin now get a custom general of Hithaeglir Beast Hunters when securing the mountain passes
 
