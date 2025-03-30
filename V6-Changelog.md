@@ -2,7 +2,9 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+
 30th March 2025
+- (Medik) Laketown CSM now goes back to normal after rebuilding
 - (Karl) Ship on the upper anduin is now only available for player Anduin Vale
 - (Karl) Annuminas gets automatically re-built when forming Arnor
 - (Karl) Added economy building to WR locked to Mirkwood region (Thank you Leao!)
