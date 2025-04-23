@@ -3,6 +3,13 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 
+23rd April 2025
+- (Reeveli) Fixed Rohan's event frame cropping and updated event artwork
+
+17th April 2025
+- (Reeveli) Updated Gandalf's events to latest ND standards
+- (Reeveli) Updated EL starting event graphic
+
 30th March 2025
 - (Medik) Laketown CSM now goes back to normal after rebuilding
 - (Karl) Ship on the upper anduin is now only available for player Anduin Vale
