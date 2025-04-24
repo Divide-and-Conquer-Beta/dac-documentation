@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 
+24th April 2025
+- (Reeveli) Updated ND realm events to latest frames
+
 23rd April 2025
 - (Reeveli) Fixed Rohan's event frame cropping and updated event artwork
 
