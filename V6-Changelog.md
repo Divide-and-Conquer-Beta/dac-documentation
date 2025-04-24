@@ -5,6 +5,7 @@
 
 24th April 2025
 - (Reeveli) Updated ND realm events to latest frames
+- (Reeveli) Updated Gundabad's events' art and frames
 
 23rd April 2025
 - (Reeveli) Fixed Rohan's event frame cropping and updated event artwork
