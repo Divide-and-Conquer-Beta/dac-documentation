@@ -1,7 +1,35 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
-
+5th May 2025
+- (Augimund) Added the following models from WalnutPants: 
+	Helmingas Upgrade
+	Rhovanion Hunter Upgrades & Officer
+	Rhovanion Spearmen Upgrades & Officer
+	Rhovanion Rider Upgrades & Bannercarrier
+	Dwarven Labourer Upgrades
+	Erebor Warrior Upgrades
+	Erebor Axethrower Upgrades
+	Durins Guard Upgrades
+	Isengard Berserker Upgrades
+	Uruk-Hai Reaver Upgrade
+	Fountain Guard Banner/Officer
+	Ithilien Banner/Officer 
+	Gondor Militia Banner 
+	Blackroot Vale Banner/Officer 
+	Lamedon Banner 
+	Anfalas Banner/Officer 
+	Pelargir (Lebennin) Banner/Officer 
+	Pinnath Gelin Banner/Officer 
+	Guard of Osgiliath Banner/Officer 
+	Citadel Guard Banner/Officer 
+	Minas Ithil Banner/Officers
+- (Augimund) Added Orthanc Wardens and Orthanc Sentries to Gondor and Dol Amorth when they capture Isengard.
+- (Augimund) Added new starter buildings to various rebel settlements in Eriador: Ost Gelon, Fuirost, Garth Helegof, Cor Wilishar, Perth-en-Lhun, Caras Nurneled, Bregost, Suduri, and Tirdhuin.
+- (Augimund) Lowered the culture requirements of Bree's Gate Keepers to 50%. Now Barliman will have free upkeep at the beginning of a Bree campaign.
+- (Augimund) Merchant Infantry (Bree) now have a bonus against mounts.
+- (Augimund) Lumbercamp building buffed. -1 build time and building income increased to 64.
+- (Augimund) Ost Gelon is now the sheep capitol of Numeriador. Three sheep resources were added to the region and it now starts with the sheep farm building.
 
 24th April 2025
 - (Reeveli) Updated ND realm events to latest frames
