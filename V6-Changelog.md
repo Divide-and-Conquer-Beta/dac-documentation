@@ -28,6 +28,7 @@
 - (Augimund) Added new starter buildings to various rebel settlements in Eriador: Ost Gelon, Fuirost, Garth Helegof, Cor Wilishar, Perth-en-Lhun, Caras Nurneled, Bregost, Suduri, and Tirdhuin.
 - (Augimund) Lowered the culture requirements of Bree's Gate Keepers to 50%. Now Barliman will have free upkeep at the beginning of a Bree campaign.
 - (Augimund) Merchant Infantry (Bree) now have a bonus against mounts.
+- (Augimund) Valesmen +1 attack, +1 defense skill, Vale Archers +1 defense skill
 - (Augimund) Lumbercamp building buffed. -1 build time and building income increased to 64.
 - (Augimund) Ost Gelon is now the sheep capitol of Numeriador. Three sheep resources were added to the region and it now starts with the sheep farm building.
 
