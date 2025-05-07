@@ -1,6 +1,11 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
+
+
+7th May 2025
+- (Reeveli) Updated event artwork and made frames consistent for AA, Harad, Khand & Rhûn
+
 5th May 2025
 - (Augimund) Added the following models from WalnutPants: 
 	Helmingas Upgrade
