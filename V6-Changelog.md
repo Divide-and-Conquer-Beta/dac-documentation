@@ -3,7 +3,8 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 10th May 2025
-- (Karl) Fix Citadel Guard appearing twice in T3 Dunedain Barracks in Gondor if you hadn't formed Reunited Kingdom
+- (karl) Fix Citadel Guard appearing twice in T3 Dunedain Barracks in Gondor if you hadn't formed Reunited Kingdom
+- (karl) Barliman starts loyal after forming Arnor
 
 7th May 2025
 - (Reeveli) Updated event artwork and made frames consistent for AA, Harad, Khand & Rhûn
