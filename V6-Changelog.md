@@ -2,6 +2,15 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+12th May 2025
+- (Medik) - Overhauled guild system
+  - Converted all guild triggers from export_descr_guilds.txt to a type safe Lua system in guilds.lua
+  - Removed non-sensical triggers for certain guilds and replaced them with more logical triggers
+  - Added information on how to increase reputation with each guild in their building description
+  - Added ability to see current status with guilds in a given settlement by pressing a button in the Settlement view
+-  (Medik) Converted garrison units to EOP units to save space in EDU
+-  (Medik) Replaced the Mordor general CSM with one of a Black Uruk instead of some weak looking orc
+
 10th May 2025
 - (karl) Fix Citadel Guard appearing twice in T3 Dunedain Barracks in Gondor if you hadn't formed Reunited Kingdom
 - (karl) Barliman starts loyal after forming Arnor
