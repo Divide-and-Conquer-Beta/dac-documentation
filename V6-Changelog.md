@@ -2,6 +2,10 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+
+14th May 2025
+- (Reeveli) Fixed Blue Wizards event image shadows and artwork
+
 12th May 2025
 - (Medik) - Overhauled guild system
   - Converted all guild triggers from export_descr_guilds.txt to a type safe Lua system in guilds.lua
