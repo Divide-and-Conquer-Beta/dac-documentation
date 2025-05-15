@@ -4,7 +4,7 @@
 
 
 14th May 2025
-- (Reeveli) Fixed Blue Wizards event image shadows and artwork
+- (Reeveli) Fixed Blue Wizards event image shadows and some artwork updates
 
 12th May 2025
 - (Medik) - Overhauled guild system
