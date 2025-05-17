@@ -3,6 +3,10 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 
+17th May 2025
+- (Reeveli) Resurrected the old Easterling defender garrison unit for Khand and Rhûn
+- (Reeveli) Made Haradrim defenders moral consistent with other human garrisons
+
 14th May 2025
 - (Reeveli) Fixed Blue Wizards event image shadows and some artwork updates
 
