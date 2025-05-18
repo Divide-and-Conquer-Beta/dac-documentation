@@ -3,6 +3,11 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 
+18th May 2025
+- (Reeveli) Ar-Adûnaim finally got generic captain, admiral and rebel portraits
+- (Reeveli) Different generic captain, admiral and rebel portraits for Angmar (previously shared with Anduin)
+- (Reeveli) Different generic captain, admiral and rebel portraits for Khand (previously shared with Harad)
+
 17th May 2025
 - (Reeveli) Resurrected the old Easterling defender garrison unit for Khand and Rhûn
 - (Reeveli) Made Haradrim defenders moral consistent with other human garrisons
