@@ -3,6 +3,11 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 
+21st May 2025
+- (Reeveli) New portrait set for Khand's nomadic culture
+- (Reeveli) New generic captain, admiral and rebel portraits for Enedwaith (previously shared with Dunland)
+- (Reeveli) New generic captain, admiral and rebel portraits for Gundabad (previously shared with Misty Mountains)
+
 18th May 2025
 - (Reeveli) Ar-Adûnaim finally got generic captain, admiral and rebel portraits
 - (Reeveli) Different generic captain, admiral and rebel portraits for Angmar (previously shared with Anduin)
