@@ -2,6 +2,11 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+23rd May 2025
+- (Reeveli) Expanded Erebor's family tree to cover Thorin's line
+- (Reeveli) Fixed all the wrong dates and names in same
+- (Reeveli) New Dwarf wife and children portraits
+- (Reeveli) Added royal Dwarf names to unique names script
 
 21st May 2025
 - (Reeveli) New portrait set for Khand's nomadic culture
