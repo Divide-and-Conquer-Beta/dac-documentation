@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 
-24th May 2025
+27th May 2025
 - (Reeveli) Rohan's family tree expanded to cover the second royal line
 - (Reeveli) All new family and dead general portraits for factions using northern_european culture
 - (Reeveli) Additions to Dúnedain and Northmen name pools
