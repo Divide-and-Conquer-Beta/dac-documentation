@@ -2,6 +2,9 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+5th June 2025
+- (Coma) Updated Haradrim Unit Cards
+- (SotaMursu/Medik) Changed spoils of war to be done with EOP, allowing scaling the gold gain/loss based on the units involved. By default, 10 units equal the V5 gold amounts, less units is less gold, more units is more gold, and units that have "can hide anywhere" will only cost/gain gold during a heroic win/loss, allowing them to retreat without a cost. The historic events that popup after the battle now show the amount of gold gained/lost.
 
 27th May 2025
 - (Reeveli) Rohan's family tree expanded to cover the second royal line
