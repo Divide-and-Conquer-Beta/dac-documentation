@@ -2,6 +2,14 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+8th June 2025
+- (Reeveli) Photographic spy portraits for most human factions
+- (Reeveli) Dead general portraits for ND
+- (Reeveli) New family portraits for ND, Gondor and DA
+- (Reeveli) Removed bunch of old/duplicate assets from northern_european portraits
+- (Reeveli) New portrait for Donnchaidh
+- (Reeveli) Small fixes for Gondor's family tree
+
 5th June 2025
 - (Coma) Updated Haradrim Unit Cards
 - (SotaMursu/Medik) Changed spoils of war to be done with EOP, allowing scaling the gold gain/loss based on the units involved. By default, 10 units equal the V5 gold amounts, less units is less gold, more units is more gold, and units that have "can hide anywhere" will only cost/gain gold during a heroic win/loss, allowing them to retreat without a cost. The historic events that popup after the battle now show the amount of gold gained/lost.
