@@ -2,6 +2,11 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+9th June 2025
+- (Reeveli) Dead general, family, spy, merchant and diplomat portraits for evil men factions
+- (Reeveli) Minor diversification for Harad and Rhûn general portrait pools
+- (Reeveli) Swiched Ancantar to 'Unused1' portrait
+
 8th June 2025
 - (Reeveli) Photographic spy portraits for most human factions
 - (Reeveli) Dead general portraits for ND
