@@ -2,6 +2,12 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+
+10th June 2025
+- (Reeveli) Updated DA to use the new Gondor UIs
+- (Reeveli) Rewrote Angmar last stand event as it was still meant for Orc faction
+- (Reeveli) Fixed couple of missing Logath unit ownerships to Rhûn
+
 9th June 2025
 - (Reeveli) Dead general, family, spy, merchant and diplomat portraits for evil men factions
 - (Reeveli) Minor diversification for Harad and Rhûn general portrait pools
