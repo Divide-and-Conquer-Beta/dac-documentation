@@ -2,6 +2,9 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+19th June 2025
+- (Reeveli) Characters now read 'Died' in family tree rather than 'Died peacefully'
+- (Reeveli) Dain Ironfoot and Thorin Stonehelm get their epithets on loading a save
 
 10th June 2025
 - (Reeveli) Updated DA to use the new Gondor UIs
