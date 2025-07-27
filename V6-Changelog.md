@@ -2,6 +2,13 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+27th July 2025
+- (Reeveli) Updated Elven family portraits
+- (Reeveli) Photographic spy portraits for Elven factions
+- (Reeveli) New portrait for Cirdan (courtesy of unknown artist and Alexios22)
+- (Reeveli) Fixed a few ancilliary images and backgrounds
+- (Reeveli) Mistresses are no longer transferable
+
 19th June 2025
 - (Reeveli) Characters now read 'Died' in family tree rather than 'Died peacefully' (Tolkien was stingy on those)
 - (Reeveli) Dain Ironfoot and Thorin Stonehelm get their epithets on loading a save
