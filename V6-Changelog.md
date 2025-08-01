@@ -2,6 +2,16 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+1st August 2025
+* (Fynn) Updated EOP to latest version
+  * Enables modifying family tree via Lua
+  * Enables breaking EDU limit without using Lua at all (Just add new units to the EDU and everything works)
+  * Remove limit on number of mounted engines
+  * Fix bug with kill chance modifier for hero abilites being completely and utterly broken
+  * Fix religion keyword for faction_standing not working correctly
+  * Fix completely broken vanilla AI naval invasions
+  * General EOP AI improvements and fixes
+
 27th July 2025
 - (Reeveli) Updated Elven family portraits
 - (Reeveli) Photographic spy portraits for Elven factions
