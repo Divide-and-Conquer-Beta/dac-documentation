@@ -2,6 +2,15 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+17th Auguest 2025
+- (Medik) Added Hylian's Knight's updated flashing banners which allows them to properly respond to status effects when they are enabled
+- (Lerynian)
+	- Progress with Dale
+	- Race trait for custom Logath general
+	- Advanced the Rhovanion script
+	- Made the custom Custodian general from laketown a EOP unit
+	- Made preperation for the "halving upkeep" script
+
 1st August 2025
 * (Fynn) Updated EOP to latest version
   * Enables modifying family tree via Lua
