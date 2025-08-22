@@ -2,7 +2,10 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
-17th Auguest 2025
+22nd August 2025
+- (Reeveli) Expanded battle sounds for Hobbit units
+
+17th August 2025
 - (Medik) Added Hylian's Knight's updated flashing banners which allows them to properly respond to status effects when they are enabled
 - (Lerynian)
 	- Progress with Dale
