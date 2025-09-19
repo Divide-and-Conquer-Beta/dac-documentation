@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/bgYdoLw.png)
 
 16th September
-- (Reeveli) New war horn sound effects for Orcs, Elves, Dwarves and Dúnedain
+- (Reeveli) New war horn sound effects for Orcs, Elves, Dwarves and Gondor/DA
 - (Reeveli) Soundtrack reinforced with Rings of Power tracks
 
 22nd August 2025
