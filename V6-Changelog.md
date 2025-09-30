@@ -2,7 +2,13 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
-16th September
+30th September 2025
+- (Medik) Moved Last Stand scripts to Lua
+	- They can now be disabled easily
+    - They now spawn at the factions capital instead of at a fixed location
+    - Revenge stacks are still the same
+
+16th September 2025
 - (Reeveli) New war horn sound effects for Orcs, Elves, Dwarves and Gondor/DA
 - (Reeveli) Soundtrack reinforced with Rings of Power tracks
 
