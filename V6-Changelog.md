@@ -2,6 +2,15 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+23rd October 2025
+- (Sota)
+- Added new hardmode with the following optional scripts/features
+	1. **Bodyguard regen** - if enabled, bodyguard regen is overhauled to rely on healer buildings, and enemy bodyguards have larger sizes
+	2. **Epic Siege Battle Stacks** - if enabled, certain "major" settlements will spawn themed stacks for AI to fill up the settlements
+	3. **Militia Spawn** - if enabled, AI will spawn a unit of fodder to fill any empty settlements to avoid eg. drawing out defenders on a field battle, killing them all and then just walking into an empty settlement without a fight
+	4. **No Governor Penalties** - if enabled, player settlement without a governor character will gain unrest over time to lower public order
+	5. **Revenge Stacks** - if enabled, every time an AI faction loses a settlement, they will spawn an assortment of units inside their current capital
+
 30th September 2025
 - (Medik) Moved Last Stand scripts to Lua
 	- They can now be disabled easily
