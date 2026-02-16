@@ -2,6 +2,39 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+
+15th February 2026
+- (Lerynian) Changed Dale Faction colours: Reddish + bluish
+- (Lerynian) Changed probably all Dale faction symbols
+- (Lerynian) Fixed bug where you don't get 5K gold from Rhun route in Dale script
+- (Lerynian) Added new CSM and Battlemap for Dale. Credits: for CSM to Maverick, for Battlemap to WK and Reforged
+- (Lerynian) Added new Tradeable resource for logath regions. Logath Village that produces a valuable good called Logath Horses (Credit to Maverick for CSM)
+- (Lerynian) Redone unit cards for Dale swordsmen and Coastal Wardens
+
+14th February 2026
+- (Lerynian)  2 bug fixes: Eldainwe big info, Gondor cav shine
+
+13th February 2026
+- (Lerynian) Limited the Dwarven special building for Dale to maximum of 7 in the campaign
+
+10th February 2026
+- (Lerynian) Dale AI gets event counters for EDB fired from the beginning:
+  - refrom units unlocked
+  - Archer palace path so Dale guardians unlocked
+  - Logath units as AI get any logath settlement unlocked
+  - next tiers of stables unlocked
+
+8th February 2026
+- (Lerynian) Added custom General for Dale Reforms with different BG for each palace upgrade path
+- (Lerynian) Added Barding Abjurers to Khans Tent(Mistrand) for dale's recruitment
+
+25th January 2026
+- (Lerynian) New descripion to rebuild lake-town and Belltower buildings
+- (Lerynian) Wrote some more text for last mission
+- (Lerynian) Implemented code for EOP minor settlements(credit to Hazwood and Fynn). As of now only one settlement is added, called Guzul next to Erebor due to its poorer performance in V6
+- (Lerynian) small fixes to the minor settlement
+- (Lerynian) Added new Landmarks for Harondor region ( credit to Skywalker )
+
 23rd October 2025
 - (Sota)
 - Added new hardmode with the following optional scripts/features
