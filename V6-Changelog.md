@@ -2,6 +2,11 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+21st February 2026
+- (Lerynian) Updated Dale event pics
+- (Lerynian) As per suggestion reduced upkeep for BG Custodians
+- (Lerynian) Fixed missing select sounds for Dale units
+- (Lerynian) Updated the new Dale CSM with one having less verts. Credit to Maverick
 
 15th February 2026
 - (Lerynian) Changed Dale Faction colours: Reddish + bluish
