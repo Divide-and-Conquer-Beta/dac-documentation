@@ -2,6 +2,26 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+20th March 2026
+- (Lerynian) Added new battle models for whole Rohan roster ( Credit to Gareth for Few units )
+- (Lerynian) Added script to fire event on which stage you are for Dale script(Similar to Aragorn RPG script)
+- (Lerynian) Barding Abjurers available at Khans Tent after "A Wide Road Ahead"
+- (Lerynian) Added Regents Bowguard to available units from Pact with Dorwinion script
+- (Lerynian) Updated a bit Faction info event
+- (Lerynian) Finished probalby last Event text for Dale script
+- (Lerynian) updated Faction overwiew in the Faction selection Menu
+- (Lerynian) Nerfed abjurers
+- (Lerynian) fixed faster replenishment for each palace path
+- (Lerynian) fixed some text for historic events
+- (Lerynian) fixed new Dale faction logo not appearing in turn
+- (Lerynian) Added a script to swap units for 50% upkeep cut (credit to Hazwood)
+- (Lerynian) Added Leao's building for Dol Guldur. No Text yet
+- (Lerynian) Added Leao’s building description No Event Text yet
+- (Lerynian) Fixed Last mission not working
+- (Lerynian) Nerfed a bit the Dalian Caravansary special building according to beta council suggestion
+- (Lerynian) Added text for Caravansary building line
+- (Lerynian) Added ability to recruit Athala Rangers in Dale and Esgaroth
+
 21st February 2026
 - (Lerynian) Updated Dale event pics
 - (Lerynian) As per suggestion reduced upkeep for BG Custodians
