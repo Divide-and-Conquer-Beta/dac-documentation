@@ -2,6 +2,7 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 25th March 2026
+- (Medik) Add Wiisans new Orc battle announcer lines
 - (Medik) Add custom movement extent colours for each faction
 - (Medik) Make weapon upgrades go to tier 3 and change the weapon attack bonus to +1 (previously +3)
 - (Medik) Fix the texture cache bug and enable modders to make the map bigger
