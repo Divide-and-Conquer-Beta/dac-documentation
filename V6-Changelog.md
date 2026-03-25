@@ -1,6 +1,12 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
+25th March 2026
+- (Medik) Make weapon upgrades go to tier 3 and change the weapon attack bonus to +1 (previously +3)
+- (Medik) Fix the texture cache bug and enable modders to make the map bigger
+- (Medik) Fixed Nazgul, Maia, Sauron etc. getting marriage offers
+- (Medik) Disable Mithlond invasion for AI High Elves
+- (Medik) Make "Great Eye is Watching" event only occur for Gondor
 
 20th March 2026
 - (Lerynian) Added new battle models for whole Rohan roster ( Credit to Gareth for Few units )
