@@ -2,6 +2,11 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 25th March 2026
+- (Medik) Updated EOP including the following features
+  - Generals now position themselves in the centre of a unit instead of in the top left
+  - Enable ranged attack bonus from weapon upgrades
+  - Draw white outline around soldier numbers on the unit card to make the numbers more readable
+  - Credits to Fynn
 - (Medik) Add Wiisans new Orc battle announcer lines
 - (Medik) Add custom movement extent colours for each faction
 - (Medik) Make weapon upgrades go to tier 3 and change the weapon attack bonus to +1 (previously +3)
