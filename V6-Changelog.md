@@ -8,6 +8,9 @@
 - (Medik) Fixed Nazgul, Maia, Sauron etc. getting marriage offers
 - (Medik) Disable Mithlond invasion for AI High Elves
 - (Medik) Make "Great Eye is Watching" event only occur for Gondor
+- (Lerynian) Added some event text for DG script
+- (Lerynian) Added description how to get points for AV script in faction info event(mission button)
+- (Lerynian) Fixed (probably) the stopper for Dale dwarven enclaves
 
 20th March 2026
 - (Lerynian) Added new battle models for whole Rohan roster ( Credit to Gareth for Few units )
