@@ -1,6 +1,9 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
+26th March 2026
+- (Lerynian) Changed menu visual from v5 to v6
+
 25th March 2026
 - (Medik) Updated EOP including the following features
   - Generals now position themselves in the centre of a unit instead of in the top left
