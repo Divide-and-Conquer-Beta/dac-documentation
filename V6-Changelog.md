@@ -1,6 +1,22 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
+10th May 2026
+- (Karl) Feast Hall now has a UI in Castle Settlements
+- (Karl) Byrig no longer has two culture building lines
+- (Karl) ND Culture building line now has UI in Castle Settlements
+- (Karl) Fix Black Spiders crash (thanks Jayzinski for reporting and providing fix)
+- (Karl) Fixed missing Vagabond Cavalry description
+- (Karl) Fixed castle version of Dalian Stables missing UI
+- (Karl) Fixed Dorwinion being unable to recruit ballista due to wrong culture requirement
+- (SotaMursu) LUA Script related crash fix
+
+2nd May 2026
+- (Karl) Girion Palace now gives 5% global law first tier and 10% for upgraded paths instead of 200%
+- (Karl) Elven Dance Guilds now have a description
+- (Karl) Dorwinion Waystation uses the new names for the two Dorwinion units
+### Open Beta Release
+
 26th March 2026
 - (Lerynian) Changed menu visual from v5 to v6
 
