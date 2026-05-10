@@ -11,6 +11,10 @@
 - (Karl) Fixed Dorwinion being unable to recruit ballista due to wrong culture requirement
 - (SotaMursu) LUA Script related crash fix
 
+6th May 2026
+- (Medik) Fix Dunedain Garrison Units not spawning
+- (Medik) Fix Angmar Generals not having names
+
 2nd May 2026
 - (Karl) Girion Palace now gives 5% global law first tier and 10% for upgraded paths instead of 200%
 - (Karl) Elven Dance Guilds now have a description
