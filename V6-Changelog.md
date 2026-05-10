@@ -1,6 +1,7 @@
 # DaC V6 Changelog
 
 ![](https://i.imgur.com/bgYdoLw.png)
+
 10th May 2026
 - (Karl) Feast Hall now has a UI in Castle Settlements
 - (Karl) Byrig no longer has two culture building lines
@@ -10,6 +11,15 @@
 - (Karl) Fixed castle version of Dalian Stables missing UI
 - (Karl) Fixed Dorwinion being unable to recruit ballista due to wrong culture requirement
 - (SotaMursu) LUA Script related crash fix
+- (Medik) Update version to 6.0.1
+- (Medik) Tweaked the EOP AI and added custom config for faction/religion relations
+- (Medik) Add missing WK event pic
+- (Medik) Update bonus unit description text script
+- (Medik) Fix Guild button not working and Dale event messsages from mission button not working
+- (Medik) No-op Hardmode code if not enabled
+- (Medik) Disable Lorien last stand for now
+- (Medik) DaC_Launcher = M2TWEOP_GUI.exe for now
+- (Medik) Update full cleaner and add Medieval II Total War folder
 
 6th May 2026
 - (Medik) Fix Dunedain Garrison Units not spawning
