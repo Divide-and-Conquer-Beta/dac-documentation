@@ -2,6 +2,17 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
+### 6.0.2-BETA (Unreleaed)
+
+11th May 2026
+- (Medik) Spearwall doesnt give missile defense anymore
+- (Medik) Shieldwall now gives +2 missile defense
+- (Medik) Javelins now do 1 hitpoint damage to elephants instead of 4 and get 8 bonus attack instead of 10
+- (Medik) Armour piercing missiles no longer also half the shield stat
+- (Medik) Ignore EDU ownership for EDB recruitment purposes
+
+### 6.0.1-BETA (Released)
+
 10th May 2026
 - (Karl) Feast Hall now has a UI in Castle Settlements
 - (Karl) Byrig no longer has two culture building lines
@@ -29,6 +40,7 @@
 - (Karl) Girion Palace now gives 5% global law first tier and 10% for upgraded paths instead of 200%
 - (Karl) Elven Dance Guilds now have a description
 - (Karl) Dorwinion Waystation uses the new names for the two Dorwinion units
+
 ### Open Beta Release
 
 26th March 2026
