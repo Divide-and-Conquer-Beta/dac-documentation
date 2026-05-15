@@ -2,7 +2,18 @@
 
 ![](https://i.imgur.com/bgYdoLw.png)
 
-### 6.0.2-BETA (Unreleaed)
+### 6.0.3-BETA (Released)
+
+- (Medik) Few AI tweaks and massively nerf spies influencing culture
+- (Medik) Make T2+ Culture buildings give more culture and faster to build to compensate for spy culture changes
+- (Medik) Add Fynn's anti-bankruptcy script
+- (Medik) Add Fynn's AI Production Helper script to help AI recruit stuff properly
+- (Medik) Make AI focus on rebels a bit more
+- (Medik) Siege works needs masons hall
+- (Medik) Replace Germanicus Battle AI with Fynn's Lua battle AI
+- (Medik) Turns off skirmish mode for player's units at the start of a battle
+
+### 6.0.2-BETA (Released)
 
 11th May 2026
 - (Medik) Spearwall doesnt give missile defense anymore
